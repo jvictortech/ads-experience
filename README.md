@@ -131,18 +131,6 @@ O projeto pode ser adaptado para outras turmas, eventos e atividades.
 
 Após qualquer alteração, teste o percurso completo até a vitória e o reinício da partida.
 
-## 🌍 Publicação no GitHub Pages
-
-Para esta versão estática:
-
-1. Abra **Settings → Pages** no repositório.
-2. Em **Source**, selecione **Deploy from a branch**.
-3. Selecione a branch que contém o jogo.
-4. Escolha **/ (root)** se o `index.html` estiver na raiz.
-5. Clique em **Save**.
-6. Após a publicação, copie o endereço exibido pelo GitHub Pages.
-
-O link publicado pode ser compartilhado com os participantes e utilizado para gerar um QR Code.
 
 ## 🔒 Privacidade
 
@@ -157,27 +145,3 @@ O progresso armazenado localmente pertence ao navegador utilizado. Ele não repr
 - A cifra de César demonstra um conceito histórico e não deve ser usada para proteger informações reais.
 - A missão de segurança trabalha a identificação de sinais suspeitos; uma mensagem aparentemente comum não é garantia de segurança.
 - Os exemplos de redes utilizam um cenário específico para facilitar a compreensão inicial.
-
-## ✅ Checklist antes do evento
-
-- [ ] Testar uma partida completa.
-- [ ] Conferir respostas corretas e incorretas.
-- [ ] Testar as pistas.
-- [ ] Conferir o cronômetro.
-- [ ] Testar o código final.
-- [ ] Testar o botão Nova equipe.
-- [ ] Conferir a versão offline.
-- [ ] Testar nos computadores do laboratório.
-- [ ] Conferir a versão publicada e o QR Code.
-
-## 👨‍🏫 Autoria e contexto
-
-**Professor João Victor Pinheiro da Silva**
-
-Projeto educativo para apresentação do curso de **Análise e Desenvolvimento de Sistemas** na Mostra de Profissões.
-
-> “Hoje você salvou um sistema. Amanhã pode criar soluções que transformam vidas.”
-
-## 📄 Licença
-
-Consulte o arquivo `LICENSE`, caso exista, para verificar as condições de uso, modificação e distribuição deste projeto.
